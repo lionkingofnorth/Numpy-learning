@@ -101,3 +101,7 @@ print()
 print('bb has dimensions:', cc.shape)
 print('bb is an object of type:', type(cc))
 print('The elements in bb are of type:', cc.dtype)
+
+
+toto=np.random.randint(1,50,7)
+print("TOTO:{}".format(toto))
